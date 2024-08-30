@@ -1,0 +1,34 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "cars": "Cars",
+    "settings": "Settings",
+    "logout": "Logout",
+    "logoName": "Motiv",
+    "language": "AR"
+  },
+  "cars": {
+    "title": "Booking",
+    "new": "New",
+    "type": "Toyota"
+  },
+  "errorMessage": "Not Found",
+  "empty": "No Data Found",
+  "inputPlaceholderText": "Search or type",
+  "dashboard": {
+    "main": {
+      "title": "Apply for a car loan !",
+      "description": "This is a sample of a generated text",
+      "button": "Discover More"
+    },
+    "upgrading": {
+      "title": "You have earned",
+      "textOne": "Badges!",
+      "textTwo": "Points!",
+      "descriptionOne": "Hooray! Way to go Mohammed!",
+      "descriptionTwo": "Redeem and claim your rewards!"
+    }
+  }
+
+
+}

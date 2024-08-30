@@ -1,0 +1,33 @@
+{
+  "sidebar": {
+    "dashboard": "لوحة التحكم",
+    "cars": "السيارات",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "logoName": "موتيف",
+    "language": "EN"
+  },
+  "cars": {
+    "title": "الحجز",
+    "new": "جديد",
+    "car": "تويوتا"
+  },
+  "errorMessage": "لم يتم العثور",
+  "empty": "لم يتم العثور على بيانات",
+  "inputPlaceholderText": "ابحث أو اكتب",
+  "dashboard": {
+    "main": {
+      "title": "تقدم بطلب للحصول على قرض سيارة!",
+      "description": "هذا مثال على نص مُولد",
+      "button": "اكتشف المزيد"
+    },
+    "upgrading": {
+      "title": "لقد حصلت على",
+      "textOne": "شارات!",
+      "textTwo": "نقاط!",
+      "descriptionOne": "مبروك! أحسنت يا محمد!",
+      "descriptionTwo": "استبدل واطلب مكافآتك!"
+    }
+  }
+
+}
